@@ -1,0 +1,42 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #fafafa;
+  color: #333;
+  margin: 20px;
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0px;
+  }
+}
+
+#principal {
+  font-size: 2em;
+  color: rgb(234, 160, 172);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imagen {
+  width: 500px;
+  margin-top: 20px;
+}
+
+.Ingredientesyprocedimiento {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:auto;
+  margin-top: 40px;
+}
+
+.desarollodepasos {
+  width: 69%;
+}

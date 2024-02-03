@@ -1,0 +1,37 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #fafafa;
+  color: #333;
+  margin: 20px;
+}
+#principal {
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(216, 168, 220);
+  background-color: rgb(143, 63, 134);
+}
+.title {
+  margin: 10px;
+}
+
+.subtitle1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1,5em;
+  color: rgb(191, 155, 208);
+  background-color: rgb(244, 223, 227);
+  width: 15vw;
+}
+
+.subtitle2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1,5em;
+  color: rgb(197, 165, 212);
+  background-color: rgb(244, 223, 227);
+  width: 18vw;
+}
+
+.enlace:hover {
+  background-color: rgb(192, 232, 231);
+}
